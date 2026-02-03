@@ -1,2 +1,2 @@
 # Azure-MISP-SOC-Lab
-A SOC lab using MISP
+An Azure SOC lab using MISP
