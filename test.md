@@ -11,10 +11,12 @@ Ever wondered, while reviewing Microsoft Sentinel logs, whether a suspicious IP 
 The result: stop attacks and threats dead in their tracks before they can cause damage.
 
 ## Key Components and Technologies
-- MISP instance running as a Docker container on a Linux VM (Serving as the open-source threat intelligence platform.)
+- MISP instance running as a Docker container on a Linux VM (the open-source threat intelligence platform.)
+- Docker
 - Azure Functions (for automated indicator ingestion and processing)
 - Python (core scripting language for integration logic, utilizing PyMISP)
 - MISP2Sentinel data connector
+- Kudulite (for troubleshooting Azure Functions and deployment)
 - Application Registration
 - Azure Key Vault (secure storage of API keys, credentials, and secrets)
 - Log Analytics workspace
