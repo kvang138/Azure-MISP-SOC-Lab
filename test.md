@@ -16,7 +16,7 @@ The result: stop attacks and threats dead in their tracks before they can cause 
 - Azure Functions (for automated indicator ingestion and processing)
 - Python (core scripting language for integration logic, utilizing PyMISP)
 - MISP2Sentinel data connector
-- Kudulite (for troubleshooting Azure Functions and deployment)
+- KuduLite (for troubleshooting Azure Functions and deployment)
 - Application Registration
 - Azure Key Vault (secure storage of API keys, credentials, and secrets)
 - Log Analytics workspace
