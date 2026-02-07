@@ -17,7 +17,7 @@ The result: stop attacks and threats dead in their tracks before they can cause 
 - Python (core scripting language for integration logic, utilizing PyMISP)
 - MISP2Sentinel data connector
 - KuduLite (for troubleshooting Azure Functions and deployment)
-- Application Registration
+- App Registration
 - Azure Key Vault (secure storage of API keys, credentials, and secrets)
 - Log Analytics workspace
 - Microsoft Sentinel
